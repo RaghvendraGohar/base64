@@ -109,5 +109,3 @@ g++ base64.o example.cpp -o example
 - [Encode an ASCII string into Base-64 Format](https://www.geeksforgeeks.org/encode-ascii-string-base-64-format/).
 - [Base64 C source code](https://web.mit.edu/freebsd/head/contrib/wpa/src/utils/base64.c).
 
-## Licence
-[base64](https://github.com/namantam1/base64) source code is licensed under the MIT [Licence](https://github.com/namantam1/base64/blob/main/LICENSE).
